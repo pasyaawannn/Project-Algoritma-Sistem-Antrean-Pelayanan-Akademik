@@ -1,0 +1,1001 @@
+id_mahasiswa,nama,nim,jenis_layanan,prioritas,waktu_kedatangan,estimasi_waktu_layanan
+1,Umi Pratama,202613279,Konsultasi,2,17,28
+2,Dewi Kusuma,202687398,Surat Aktif Kuliah,1,27,12
+3,Qori Santoso,202683564,Legalisasi,3,69,18
+4,Hadi Saputra,202687237,Legalisasi,4,97,30
+5,Fani Handayani,202654598,Legalisasi,2,97,15
+6,Dewi Kusuma,202659798,Legalisasi,4,77,13
+7,Zainal Wijaya,202670218,Surat Aktif Kuliah,4,48,7
+8,Rini Putri,202692398,Surat Aktif Kuliah,4,73,11
+9,Wahyu Kusuma,202616007,Konsultasi,4,10,12
+10,Bambang Pratama,202659824,Legalisasi,3,46,10
+11,Lestari Susanto,202637461,Konsultasi,4,87,25
+12,Citra Nugroho,202680011,Konsultasi,2,48,13
+13,Dedi Siregar,202699734,Legalisasi,4,7,12
+14,Andi Wijaya,202651348,Surat Aktif Kuliah,1,116,23
+15,Cici Ramadhan,202637870,Konsultasi,3,117,25
+16,Oscar Sari,202644719,Legalisasi,4,68,13
+17,Xena Handayani,202686485,Surat Aktif Kuliah,2,17,21
+18,Putri Kusuma,202616176,Pengajuan Cuti,2,20,30
+19,Vina Handayani,202688173,Legalisasi,3,59,21
+20,Indah Santoso,202699167,Konsultasi,3,68,29
+21,Indah Ramadhan,202624622,Legalisasi,2,0,28
+22,Cici Maulana,202675613,Konsultasi,3,13,25
+23,Joko Setiawan,202689819,Legalisasi,3,20,22
+24,Yanti Setiawan,202610075,Surat Aktif Kuliah,3,14,16
+25,Cici Putri,202641386,Legalisasi,4,10,7
+26,Xena Purnama,202619072,Pengajuan Cuti,3,16,9
+27,Vina Purnama,202682064,Legalisasi,3,77,18
+28,Gita Hidayat,202650858,Surat Aktif Kuliah,3,47,19
+29,Cici Setiawan,202669178,Legalisasi,2,43,5
+30,Sari Siregar,202687129,Legalisasi,1,80,6
+31,Hadi Kusuma,202614118,Pengajuan Cuti,1,30,13
+32,Vina Purnama,202638081,Surat Aktif Kuliah,4,112,23
+33,Sari Purnama,202641851,Konsultasi,4,24,8
+34,Dewi Handayani,202656439,Surat Aktif Kuliah,3,93,6
+35,Vina Pratama,202617945,Surat Aktif Kuliah,3,110,8
+36,Hadi Hidayat,202634932,Surat Aktif Kuliah,2,23,13
+37,Oscar Siregar,202619881,Surat Aktif Kuliah,4,70,8
+38,Budi Santoso,202622225,Pengajuan Cuti,4,21,18
+39,Putri Purnama,202638017,Pengajuan Cuti,4,21,17
+40,Ahmad Laksono,202644761,Pengajuan Cuti,4,36,18
+41,Wahyu Purnama,202630290,Legalisasi,2,7,23
+42,Xena Wijaya,202651105,Legalisasi,3,64,21
+43,Fani Wijaya,202676563,Legalisasi,2,76,7
+44,Vina Siregar,202662924,Legalisasi,4,31,23
+45,Tono Wijaya,202691184,Legalisasi,3,72,21
+46,Kartini Maulana,202636773,Konsultasi,3,33,17
+47,Eko Putri,202669930,Legalisasi,4,9,5
+48,Oscar Pratama,202619603,Surat Aktif Kuliah,3,16,16
+49,Cici Kusuma,202642019,Surat Aktif Kuliah,2,106,22
+50,Wahyu Putri,202690174,Pengajuan Cuti,4,67,5
+51,Vina Putri,202696952,Legalisasi,4,33,8
+52,Cici Pratama,202682513,Legalisasi,2,26,27
+53,Kartini Hidayat,202693131,Pengajuan Cuti,3,32,6
+54,Citra Handayani,202646266,Legalisasi,3,16,25
+55,Indah Nugroho,202667913,Surat Aktif Kuliah,3,1,8
+56,Citra Sari,202681512,Legalisasi,3,70,9
+57,Nina Sari,202615483,Legalisasi,4,101,6
+58,Cici Susanto,202637536,Konsultasi,3,45,29
+59,Rini Handayani,202691352,Konsultasi,4,30,10
+60,Zainal Nugroho,202664041,Legalisasi,4,42,30
+61,Dedi Handayani,202697807,Pengajuan Cuti,4,34,10
+62,Zainal Pratama,202660141,Pengajuan Cuti,4,28,11
+63,Andi Saputra,202655831,Legalisasi,4,29,12
+64,Ahmad Hidayat,202662228,Legalisasi,4,98,13
+65,Lestari Setiawan,202662387,Konsultasi,4,42,5
+66,Dewi Maulana,202633406,Surat Aktif Kuliah,4,4,8
+67,Tono Handayani,202655310,Konsultasi,3,77,21
+68,Dewi Laksono,202685575,Legalisasi,1,55,5
+69,Qori Hidayat,202657740,Surat Aktif Kuliah,4,117,15
+70,Tono Ramadhan,202696952,Konsultasi,4,38,21
+71,Joko Handayani,202652754,Surat Aktif Kuliah,2,16,11
+72,Nina Laksono,202698778,Konsultasi,2,72,14
+73,Mario Santoso,202649830,Legalisasi,3,74,24
+74,Umi Ramadhan,202670947,Surat Aktif Kuliah,3,65,20
+75,Zainal Nugroho,202696357,Legalisasi,3,81,24
+76,Kartini Kusuma,202640785,Konsultasi,2,25,9
+77,Ahmad Wijaya,202642093,Pengajuan Cuti,3,98,7
+78,Oscar Handayani,202692545,Surat Aktif Kuliah,4,49,20
+79,Mario Siregar,202629343,Konsultasi,1,96,29
+80,Cici Pratama,202665725,Legalisasi,4,89,21
+81,Oscar Wijaya,202683061,Legalisasi,4,58,9
+82,Zainal Saputra,202697501,Surat Aktif Kuliah,3,40,29
+83,Cici Saputra,202690302,Konsultasi,4,54,22
+84,Oscar Nugroho,202672217,Surat Aktif Kuliah,4,107,25
+85,Indah Setiawan,202673518,Surat Aktif Kuliah,2,9,27
+86,Joko Siregar,202645615,Legalisasi,4,10,9
+87,Eko Siregar,202660206,Konsultasi,4,8,18
+88,Nina Ramadhan,202681122,Surat Aktif Kuliah,1,106,18
+89,Mario Santoso,202685457,Surat Aktif Kuliah,1,45,14
+90,Yanti Laksono,202664922,Surat Aktif Kuliah,4,102,24
+91,Cici Siregar,202673994,Legalisasi,3,3,17
+92,Kartini Laksono,202631633,Konsultasi,4,79,22
+93,Ahmad Laksono,202687581,Surat Aktif Kuliah,1,82,18
+94,Eko Saputra,202633820,Legalisasi,3,27,19
+95,Kartini Ramadhan,202659693,Legalisasi,4,53,13
+96,Andi Kusuma,202671645,Legalisasi,3,44,12
+97,Umi Kusuma,202695427,Legalisasi,1,31,11
+98,Andi Santoso,202691440,Legalisasi,2,85,8
+99,Sari Hidayat,202670953,Konsultasi,4,21,24
+100,Tono Pratama,202631466,Pengajuan Cuti,2,3,14
+101,Sari Laksono,202661991,Pengajuan Cuti,2,75,27
+102,Andi Siregar,202623357,Konsultasi,3,87,24
+103,Zainal Pratama,202684178,Konsultasi,3,54,26
+104,Lestari Kusuma,202676318,Surat Aktif Kuliah,1,53,20
+105,Dewi Handayani,202657473,Surat Aktif Kuliah,4,90,9
+106,Nina Nugroho,202678387,Pengajuan Cuti,2,103,22
+107,Yanti Purnama,202670932,Surat Aktif Kuliah,4,34,15
+108,Bambang Siregar,202621360,Legalisasi,3,96,19
+109,Sari Laksono,202654093,Legalisasi,4,23,20
+110,Gita Susanto,202643863,Legalisasi,4,89,13
+111,Rini Santoso,202677716,Pengajuan Cuti,1,92,18
+112,Putri Siregar,202672403,Surat Aktif Kuliah,3,101,5
+113,Citra Putri,202639046,Surat Aktif Kuliah,2,84,23
+114,Lestari Purnama,202682545,Surat Aktif Kuliah,3,95,22
+115,Kartini Susanto,202669474,Legalisasi,2,15,28
+116,Gita Ramadhan,202625671,Konsultasi,4,88,10
+117,Gita Hidayat,202673465,Legalisasi,3,97,21
+118,Tono Putri,202623177,Konsultasi,2,46,10
+119,Joko Santoso,202680011,Legalisasi,1,6,22
+120,Joko Sari,202693607,Pengajuan Cuti,3,111,5
+121,Sari Putri,202671525,Surat Aktif Kuliah,3,6,13
+122,Bambang Purnama,202624954,Konsultasi,3,9,23
+123,Umi Wijaya,202629888,Legalisasi,3,38,7
+124,Hadi Pratama,202683148,Konsultasi,3,101,24
+125,Hadi Setiawan,202659857,Surat Aktif Kuliah,3,110,23
+126,Nina Putri,202684532,Surat Aktif Kuliah,3,94,8
+127,Yanti Hidayat,202691988,Legalisasi,3,20,12
+128,Fani Kusuma,202630518,Legalisasi,3,76,20
+129,Joko Wijaya,202640341,Legalisasi,2,110,19
+130,Citra Siregar,202644676,Konsultasi,3,84,30
+131,Dedi Hidayat,202665724,Legalisasi,2,19,13
+132,Andi Sari,202619360,Legalisasi,4,76,28
+133,Andi Putri,202667561,Legalisasi,3,89,17
+134,Indah Setiawan,202680777,Surat Aktif Kuliah,1,5,18
+135,Xena Ramadhan,202689130,Legalisasi,1,86,23
+136,Sari Santoso,202698118,Konsultasi,3,97,29
+137,Fani Purnama,202678022,Konsultasi,4,23,23
+138,Nina Purnama,202621960,Surat Aktif Kuliah,3,41,26
+139,Dewi Nugroho,202653229,Surat Aktif Kuliah,3,84,17
+140,Andi Wijaya,202669615,Legalisasi,2,14,29
+141,Mario Setiawan,202610151,Konsultasi,3,52,6
+142,Gita Setiawan,202657420,Surat Aktif Kuliah,3,56,29
+143,Budi Hidayat,202645004,Surat Aktif Kuliah,4,56,27
+144,Putri Pratama,202613784,Pengajuan Cuti,3,30,27
+145,Fani Putri,202682200,Legalisasi,3,28,8
+146,Oscar Pratama,202694897,Konsultasi,3,91,14
+147,Qori Maulana,202664460,Konsultasi,4,31,19
+148,Rini Sari,202660278,Legalisasi,3,95,9
+149,Bambang Kusuma,202646209,Konsultasi,4,43,30
+150,Qori Maulana,202610337,Legalisasi,2,75,23
+151,Vina Purnama,202629477,Surat Aktif Kuliah,3,42,22
+152,Yanti Laksono,202669683,Pengajuan Cuti,4,89,12
+153,Sari Laksono,202640614,Pengajuan Cuti,3,40,28
+154,Putri Laksono,202660605,Pengajuan Cuti,4,83,9
+155,Putri Wijaya,202626548,Surat Aktif Kuliah,3,111,8
+156,Bambang Saputra,202623070,Surat Aktif Kuliah,3,92,9
+157,Nina Sari,202619808,Surat Aktif Kuliah,4,43,24
+158,Wahyu Laksono,202695176,Legalisasi,3,86,22
+159,Mario Ramadhan,202692156,Konsultasi,4,111,22
+160,Budi Kusuma,202640772,Surat Aktif Kuliah,4,29,28
+161,Citra Handayani,202622904,Konsultasi,4,12,19
+162,Fani Putri,202613795,Legalisasi,4,37,16
+163,Lestari Handayani,202629081,Legalisasi,3,87,30
+164,Fani Nugroho,202632947,Legalisasi,4,79,26
+165,Hadi Purnama,202686436,Legalisasi,3,32,19
+166,Indah Santoso,202670982,Pengajuan Cuti,3,20,7
+167,Oscar Susanto,202687015,Legalisasi,4,88,13
+168,Oscar Putri,202636112,Pengajuan Cuti,4,13,12
+169,Mario Susanto,202685342,Legalisasi,3,2,26
+170,Mario Maulana,202611062,Surat Aktif Kuliah,3,95,6
+171,Dedi Purnama,202647513,Konsultasi,2,102,16
+172,Hadi Hidayat,202691382,Legalisasi,4,98,26
+173,Vina Sari,202692346,Legalisasi,3,5,14
+174,Zainal Saputra,202614374,Surat Aktif Kuliah,4,11,14
+175,Kartini Handayani,202633022,Legalisasi,4,112,16
+176,Qori Setiawan,202645721,Konsultasi,2,105,20
+177,Zainal Putri,202654397,Konsultasi,3,9,9
+178,Yanti Siregar,202698648,Konsultasi,4,108,30
+179,Rini Susanto,202621837,Konsultasi,1,68,8
+180,Oscar Susanto,202698189,Konsultasi,2,48,25
+181,Lestari Pratama,202698453,Legalisasi,1,113,22
+182,Kartini Siregar,202694890,Legalisasi,4,116,27
+183,Joko Handayani,202625293,Legalisasi,4,38,20
+184,Dewi Pratama,202640776,Pengajuan Cuti,2,58,16
+185,Vina Handayani,202686984,Konsultasi,2,53,25
+186,Dewi Purnama,202690695,Surat Aktif Kuliah,4,4,27
+187,Lestari Hidayat,202668116,Surat Aktif Kuliah,2,46,8
+188,Vina Susanto,202681365,Pengajuan Cuti,3,7,17
+189,Indah Hidayat,202626012,Pengajuan Cuti,4,11,26
+190,Gita Santoso,202616630,Konsultasi,2,16,30
+191,Sari Hidayat,202618993,Konsultasi,3,75,11
+192,Andi Siregar,202653065,Konsultasi,4,76,5
+193,Indah Sari,202627039,Surat Aktif Kuliah,4,14,26
+194,Bambang Santoso,202627276,Legalisasi,4,30,23
+195,Kartini Santoso,202632839,Legalisasi,2,53,21
+196,Dewi Kusuma,202672423,Surat Aktif Kuliah,3,75,8
+197,Oscar Setiawan,202639039,Pengajuan Cuti,1,100,26
+198,Qori Putri,202670037,Surat Aktif Kuliah,1,61,17
+199,Nina Pratama,202674261,Konsultasi,3,115,7
+200,Kartini Sari,202618610,Legalisasi,3,74,22
+201,Wahyu Ramadhan,202659926,Pengajuan Cuti,3,58,21
+202,Tono Handayani,202623000,Konsultasi,2,83,25
+203,Cici Hidayat,202666371,Surat Aktif Kuliah,2,43,19
+204,Mario Handayani,202622464,Legalisasi,3,32,16
+205,Eko Purnama,202618800,Legalisasi,1,55,8
+206,Xena Susanto,202627055,Surat Aktif Kuliah,3,71,22
+207,Kartini Pratama,202663846,Surat Aktif Kuliah,3,96,18
+208,Bambang Wijaya,202647701,Surat Aktif Kuliah,3,73,21
+209,Gita Sari,202696080,Surat Aktif Kuliah,4,44,22
+210,Lestari Pratama,202646513,Surat Aktif Kuliah,4,108,22
+211,Yanti Santoso,202689823,Pengajuan Cuti,4,34,5
+212,Fani Maulana,202650500,Pengajuan Cuti,3,23,9
+213,Sari Laksono,202619121,Legalisasi,3,3,7
+214,Xena Setiawan,202638198,Surat Aktif Kuliah,3,20,16
+215,Joko Ramadhan,202684396,Surat Aktif Kuliah,4,19,10
+216,Yanti Wijaya,202698339,Legalisasi,3,54,20
+217,Tono Saputra,202664288,Legalisasi,4,14,16
+218,Nina Pratama,202647126,Konsultasi,3,67,26
+219,Joko Wijaya,202638904,Surat Aktif Kuliah,3,0,11
+220,Joko Hidayat,202627988,Konsultasi,2,15,5
+221,Putri Handayani,202633029,Legalisasi,3,29,21
+222,Rini Susanto,202619448,Surat Aktif Kuliah,4,55,5
+223,Oscar Kusuma,202651034,Surat Aktif Kuliah,3,90,25
+224,Nina Putri,202625097,Surat Aktif Kuliah,4,21,30
+225,Tono Saputra,202657429,Legalisasi,4,31,18
+226,Sari Laksono,202678677,Legalisasi,4,95,15
+227,Hadi Ramadhan,202632038,Legalisasi,3,67,21
+228,Gita Susanto,202656020,Konsultasi,4,104,9
+229,Hadi Pratama,202629195,Legalisasi,2,19,29
+230,Yanti Kusuma,202633219,Pengajuan Cuti,3,59,29
+231,Sari Saputra,202699278,Pengajuan Cuti,3,81,24
+232,Kartini Ramadhan,202629787,Surat Aktif Kuliah,3,80,14
+233,Zainal Maulana,202687519,Legalisasi,3,39,19
+234,Oscar Wijaya,202617457,Surat Aktif Kuliah,2,82,7
+235,Tono Setiawan,202660395,Surat Aktif Kuliah,3,101,28
+236,Cici Wijaya,202668948,Pengajuan Cuti,3,24,15
+237,Tono Purnama,202675716,Legalisasi,1,13,30
+238,Cici Ramadhan,202621054,Surat Aktif Kuliah,2,31,27
+239,Oscar Saputra,202678691,Surat Aktif Kuliah,2,47,14
+240,Mario Handayani,202654351,Konsultasi,1,80,25
+241,Kartini Kusuma,202653214,Legalisasi,3,36,13
+242,Xena Sari,202653695,Legalisasi,3,117,16
+243,Joko Laksono,202626902,Surat Aktif Kuliah,4,39,22
+244,Mario Ramadhan,202626751,Konsultasi,4,94,26
+245,Dedi Setiawan,202622250,Surat Aktif Kuliah,3,46,5
+246,Lestari Putri,202633628,Pengajuan Cuti,3,98,20
+247,Gita Siregar,202628031,Legalisasi,2,100,8
+248,Qori Setiawan,202614948,Konsultasi,4,79,9
+249,Tono Laksono,202630219,Legalisasi,4,98,24
+250,Zainal Nugroho,202667367,Legalisasi,3,92,12
+251,Oscar Putri,202668842,Legalisasi,2,103,30
+252,Putri Hidayat,202658214,Konsultasi,3,56,19
+253,Yanti Putri,202660053,Surat Aktif Kuliah,3,20,11
+254,Zainal Sari,202642769,Legalisasi,3,47,22
+255,Dedi Pratama,202677622,Pengajuan Cuti,2,97,10
+256,Indah Saputra,202677287,Legalisasi,3,116,12
+257,Andi Saputra,202655821,Pengajuan Cuti,3,50,21
+258,Lestari Siregar,202660616,Pengajuan Cuti,3,3,15
+259,Dedi Pratama,202695192,Legalisasi,2,4,14
+260,Dedi Purnama,202628192,Konsultasi,3,78,5
+261,Cici Kusuma,202612491,Legalisasi,4,70,28
+262,Tono Setiawan,202665477,Legalisasi,2,38,8
+263,Budi Siregar,202665028,Surat Aktif Kuliah,3,8,8
+264,Andi Purnama,202688216,Surat Aktif Kuliah,3,73,12
+265,Wahyu Sari,202648178,Surat Aktif Kuliah,3,30,23
+266,Nina Nugroho,202697081,Konsultasi,3,46,7
+267,Qori Setiawan,202676536,Surat Aktif Kuliah,3,60,6
+268,Umi Laksono,202658930,Legalisasi,1,100,7
+269,Lestari Siregar,202696128,Surat Aktif Kuliah,4,94,29
+270,Kartini Sari,202615812,Surat Aktif Kuliah,3,82,10
+271,Andi Saputra,202672723,Surat Aktif Kuliah,4,8,27
+272,Yanti Saputra,202614848,Legalisasi,1,25,6
+273,Kartini Putri,202677553,Surat Aktif Kuliah,4,60,13
+274,Budi Hidayat,202647502,Surat Aktif Kuliah,4,110,25
+275,Kartini Maulana,202626316,Konsultasi,3,51,28
+276,Oscar Laksono,202654439,Pengajuan Cuti,3,63,16
+277,Dedi Setiawan,202644960,Konsultasi,4,10,18
+278,Tono Nugroho,202681497,Legalisasi,2,41,26
+279,Joko Putri,202668448,Surat Aktif Kuliah,3,88,19
+280,Lestari Saputra,202615552,Konsultasi,4,78,18
+281,Indah Wijaya,202619836,Konsultasi,3,65,30
+282,Xena Nugroho,202614082,Legalisasi,3,100,19
+283,Budi Sari,202618813,Legalisasi,3,46,17
+284,Sari Wijaya,202689311,Legalisasi,3,47,16
+285,Oscar Kusuma,202685226,Legalisasi,3,40,25
+286,Indah Siregar,202624870,Legalisasi,2,66,17
+287,Dedi Pratama,202644312,Konsultasi,4,27,24
+288,Joko Purnama,202636238,Legalisasi,4,57,10
+289,Cici Saputra,202621507,Konsultasi,4,40,26
+290,Lestari Kusuma,202682090,Surat Aktif Kuliah,4,108,10
+291,Wahyu Nugroho,202657382,Surat Aktif Kuliah,2,25,30
+292,Eko Siregar,202674753,Legalisasi,3,47,19
+293,Zainal Sari,202690210,Pengajuan Cuti,1,50,27
+294,Xena Purnama,202678904,Surat Aktif Kuliah,3,73,7
+295,Eko Ramadhan,202694193,Legalisasi,3,66,16
+296,Eko Nugroho,202626913,Surat Aktif Kuliah,4,7,8
+297,Qori Sari,202649863,Legalisasi,3,90,12
+298,Lestari Setiawan,202647231,Konsultasi,2,81,22
+299,Indah Sari,202691923,Legalisasi,3,64,25
+300,Fani Sari,202632440,Konsultasi,4,77,15
+301,Andi Wijaya,202613719,Legalisasi,4,98,23
+302,Indah Hidayat,202684992,Surat Aktif Kuliah,3,63,25
+303,Rini Putri,202694137,Pengajuan Cuti,3,103,30
+304,Vina Laksono,202648986,Surat Aktif Kuliah,3,20,19
+305,Nina Purnama,202670876,Legalisasi,3,40,27
+306,Kartini Susanto,202662261,Legalisasi,3,71,8
+307,Kartini Siregar,202671142,Legalisasi,3,18,8
+308,Budi Putri,202660352,Pengajuan Cuti,3,110,10
+309,Andi Ramadhan,202685719,Konsultasi,2,20,20
+310,Qori Saputra,202675374,Pengajuan Cuti,3,11,17
+311,Qori Saputra,202641553,Legalisasi,3,6,14
+312,Putri Purnama,202647454,Surat Aktif Kuliah,4,55,9
+313,Cici Maulana,202657944,Konsultasi,3,51,6
+314,Sari Hidayat,202657517,Surat Aktif Kuliah,1,64,19
+315,Yanti Maulana,202691690,Konsultasi,2,12,17
+316,Lestari Ramadhan,202683117,Pengajuan Cuti,4,25,24
+317,Qori Laksono,202675547,Legalisasi,1,91,15
+318,Zainal Purnama,202678070,Surat Aktif Kuliah,3,65,9
+319,Kartini Ramadhan,202631300,Surat Aktif Kuliah,3,107,14
+320,Sari Ramadhan,202676495,Konsultasi,3,90,23
+321,Joko Purnama,202612181,Surat Aktif Kuliah,3,53,23
+322,Joko Santoso,202688239,Surat Aktif Kuliah,4,100,29
+323,Sari Siregar,202616732,Surat Aktif Kuliah,2,80,28
+324,Tono Laksono,202629370,Konsultasi,2,73,27
+325,Dewi Hidayat,202612483,Surat Aktif Kuliah,3,52,27
+326,Gita Handayani,202675775,Konsultasi,4,111,28
+327,Xena Wijaya,202628099,Surat Aktif Kuliah,3,84,20
+328,Qori Laksono,202651125,Pengajuan Cuti,3,68,15
+329,Rini Susanto,202698588,Konsultasi,4,82,30
+330,Wahyu Maulana,202689964,Surat Aktif Kuliah,4,35,22
+331,Joko Siregar,202649009,Konsultasi,4,88,27
+332,Putri Ramadhan,202672889,Legalisasi,4,101,28
+333,Indah Putri,202625975,Surat Aktif Kuliah,3,114,17
+334,Andi Susanto,202629199,Legalisasi,2,91,7
+335,Lestari Saputra,202695980,Legalisasi,3,25,22
+336,Indah Maulana,202627993,Legalisasi,4,30,12
+337,Budi Setiawan,202639580,Surat Aktif Kuliah,1,52,15
+338,Wahyu Purnama,202623179,Konsultasi,2,70,10
+339,Nina Purnama,202672581,Konsultasi,4,36,15
+340,Joko Wijaya,202621726,Konsultasi,2,94,28
+341,Bambang Wijaya,202632947,Surat Aktif Kuliah,4,119,6
+342,Andi Laksono,202674931,Legalisasi,4,111,14
+343,Cici Wijaya,202611215,Legalisasi,3,118,15
+344,Joko Saputra,202694059,Surat Aktif Kuliah,3,120,9
+345,Bambang Setiawan,202671345,Legalisasi,4,42,10
+346,Xena Saputra,202694973,Legalisasi,2,94,15
+347,Zainal Putri,202684421,Konsultasi,2,78,25
+348,Cici Laksono,202666060,Surat Aktif Kuliah,1,85,8
+349,Fani Sari,202672581,Legalisasi,2,33,17
+350,Hadi Saputra,202644996,Pengajuan Cuti,3,92,23
+351,Ahmad Maulana,202695680,Surat Aktif Kuliah,2,85,8
+352,Oscar Putri,202630935,Surat Aktif Kuliah,3,114,27
+353,Yanti Putri,202625390,Surat Aktif Kuliah,4,47,24
+354,Hadi Siregar,202627508,Surat Aktif Kuliah,3,77,16
+355,Nina Purnama,202680454,Konsultasi,4,97,12
+356,Vina Kusuma,202678880,Surat Aktif Kuliah,4,9,23
+357,Dewi Wijaya,202681782,Pengajuan Cuti,2,68,9
+358,Fani Ramadhan,202678203,Surat Aktif Kuliah,3,91,23
+359,Putri Kusuma,202676896,Surat Aktif Kuliah,1,16,21
+360,Nina Saputra,202683913,Legalisasi,3,103,14
+361,Xena Santoso,202661898,Legalisasi,1,27,23
+362,Citra Wijaya,202665535,Legalisasi,1,7,7
+363,Dedi Purnama,202614160,Legalisasi,2,17,29
+364,Umi Handayani,202659082,Pengajuan Cuti,3,111,17
+365,Mario Kusuma,202699487,Pengajuan Cuti,4,17,25
+366,Bambang Susanto,202625550,Legalisasi,3,67,9
+367,Xena Siregar,202610456,Konsultasi,4,59,26
+368,Xena Handayani,202679722,Surat Aktif Kuliah,2,58,16
+369,Eko Maulana,202634705,Pengajuan Cuti,4,14,6
+370,Zainal Handayani,202690600,Konsultasi,4,2,12
+371,Gita Kusuma,202623225,Surat Aktif Kuliah,3,86,27
+372,Bambang Wijaya,202642078,Konsultasi,3,29,22
+373,Gita Wijaya,202628368,Surat Aktif Kuliah,2,104,28
+374,Sari Ramadhan,202685691,Surat Aktif Kuliah,3,41,12
+375,Joko Sari,202696536,Surat Aktif Kuliah,3,35,6
+376,Rini Nugroho,202692051,Konsultasi,3,6,16
+377,Umi Laksono,202678743,Legalisasi,3,19,14
+378,Mario Nugroho,202680508,Surat Aktif Kuliah,4,38,27
+379,Eko Saputra,202617553,Surat Aktif Kuliah,4,71,21
+380,Eko Laksono,202641832,Legalisasi,3,10,19
+381,Bambang Susanto,202622120,Surat Aktif Kuliah,4,6,13
+382,Mario Wijaya,202619540,Legalisasi,4,92,26
+383,Rini Hidayat,202672836,Legalisasi,4,38,5
+384,Gita Hidayat,202625377,Konsultasi,4,117,12
+385,Wahyu Hidayat,202661988,Pengajuan Cuti,3,99,14
+386,Mario Saputra,202679947,Surat Aktif Kuliah,3,46,21
+387,Cici Purnama,202671081,Legalisasi,4,60,29
+388,Andi Ramadhan,202636625,Surat Aktif Kuliah,3,72,12
+389,Xena Sari,202612126,Legalisasi,4,74,28
+390,Nina Putri,202629977,Legalisasi,2,72,12
+391,Putri Ramadhan,202643729,Konsultasi,3,92,25
+392,Xena Purnama,202670402,Legalisasi,4,21,9
+393,Xena Purnama,202634124,Pengajuan Cuti,3,82,6
+394,Qori Wijaya,202619743,Pengajuan Cuti,3,97,5
+395,Nina Sari,202692668,Legalisasi,4,1,11
+396,Qori Saputra,202658917,Legalisasi,3,119,24
+397,Dedi Purnama,202696414,Surat Aktif Kuliah,1,70,18
+398,Ahmad Santoso,202679392,Konsultasi,3,36,5
+399,Qori Handayani,202633497,Legalisasi,1,19,12
+400,Gita Setiawan,202643085,Konsultasi,2,50,7
+401,Lestari Laksono,202670162,Surat Aktif Kuliah,4,28,14
+402,Vina Kusuma,202695687,Pengajuan Cuti,3,4,7
+403,Mario Laksono,202659437,Surat Aktif Kuliah,1,1,27
+404,Fani Kusuma,202675518,Konsultasi,3,42,23
+405,Bambang Pratama,202679227,Pengajuan Cuti,2,115,27
+406,Cici Purnama,202645533,Legalisasi,1,118,13
+407,Cici Wijaya,202633509,Pengajuan Cuti,3,26,23
+408,Eko Laksono,202620085,Legalisasi,3,72,17
+409,Vina Ramadhan,202660312,Konsultasi,2,88,28
+410,Citra Setiawan,202655333,Legalisasi,3,107,7
+411,Kartini Laksono,202652779,Legalisasi,2,57,20
+412,Hadi Susanto,202682488,Pengajuan Cuti,3,87,23
+413,Vina Laksono,202621233,Konsultasi,2,31,27
+414,Citra Kusuma,202645124,Legalisasi,4,81,9
+415,Xena Laksono,202651508,Surat Aktif Kuliah,1,120,14
+416,Oscar Susanto,202645359,Legalisasi,1,55,19
+417,Rini Setiawan,202663484,Legalisasi,1,70,7
+418,Tono Ramadhan,202660494,Legalisasi,3,99,7
+419,Xena Siregar,202684968,Surat Aktif Kuliah,3,21,9
+420,Indah Putri,202645181,Surat Aktif Kuliah,1,55,13
+421,Nina Putri,202673470,Konsultasi,3,120,12
+422,Xena Purnama,202687832,Surat Aktif Kuliah,3,17,14
+423,Ahmad Laksono,202653545,Konsultasi,3,110,15
+424,Oscar Ramadhan,202666442,Konsultasi,4,76,9
+425,Joko Ramadhan,202689065,Pengajuan Cuti,2,40,10
+426,Mario Ramadhan,202648201,Konsultasi,3,73,30
+427,Hadi Ramadhan,202659291,Legalisasi,4,46,8
+428,Dedi Hidayat,202687625,Pengajuan Cuti,2,98,22
+429,Ahmad Saputra,202637480,Surat Aktif Kuliah,2,88,7
+430,Andi Handayani,202698209,Surat Aktif Kuliah,3,30,13
+431,Vina Sari,202665461,Konsultasi,1,76,20
+432,Sari Laksono,202680041,Surat Aktif Kuliah,4,88,18
+433,Rini Wijaya,202657125,Konsultasi,4,76,25
+434,Dedi Kusuma,202624336,Konsultasi,3,45,10
+435,Umi Wijaya,202683823,Pengajuan Cuti,3,51,29
+436,Kartini Handayani,202623887,Legalisasi,2,65,28
+437,Qori Siregar,202668430,Surat Aktif Kuliah,3,86,23
+438,Wahyu Setiawan,202629759,Legalisasi,1,13,14
+439,Nina Kusuma,202625214,Konsultasi,4,44,14
+440,Kartini Saputra,202637115,Surat Aktif Kuliah,3,12,19
+441,Xena Saputra,202651801,Legalisasi,1,90,8
+442,Ahmad Ramadhan,202694931,Legalisasi,4,119,28
+443,Hadi Setiawan,202632866,Surat Aktif Kuliah,3,54,19
+444,Hadi Laksono,202692544,Legalisasi,3,55,17
+445,Ahmad Hidayat,202668927,Surat Aktif Kuliah,3,90,11
+446,Gita Maulana,202618201,Surat Aktif Kuliah,4,68,10
+447,Lestari Ramadhan,202635831,Surat Aktif Kuliah,2,110,20
+448,Qori Ramadhan,202688247,Surat Aktif Kuliah,3,14,16
+449,Lestari Saputra,202690919,Legalisasi,3,102,14
+450,Dedi Kusuma,202698095,Legalisasi,2,39,8
+451,Fani Susanto,202628529,Surat Aktif Kuliah,3,17,23
+452,Mario Handayani,202634348,Surat Aktif Kuliah,3,117,25
+453,Dedi Nugroho,202682734,Legalisasi,2,23,15
+454,Andi Saputra,202691188,Legalisasi,3,1,20
+455,Eko Hidayat,202660325,Pengajuan Cuti,3,63,18
+456,Vina Purnama,202664478,Konsultasi,3,21,7
+457,Sari Santoso,202638906,Legalisasi,2,68,14
+458,Fani Saputra,202684141,Konsultasi,4,70,21
+459,Dewi Pratama,202645113,Konsultasi,4,46,22
+460,Andi Wijaya,202667851,Surat Aktif Kuliah,4,13,28
+461,Andi Siregar,202649022,Pengajuan Cuti,1,33,16
+462,Bambang Kusuma,202667550,Pengajuan Cuti,2,103,12
+463,Gita Susanto,202689989,Surat Aktif Kuliah,2,17,30
+464,Gita Hidayat,202617781,Surat Aktif Kuliah,3,76,22
+465,Fani Ramadhan,202648357,Legalisasi,2,109,21
+466,Cici Pratama,202627772,Pengajuan Cuti,4,117,6
+467,Indah Sari,202627393,Legalisasi,4,106,12
+468,Yanti Laksono,202674155,Legalisasi,3,80,18
+469,Mario Saputra,202619899,Surat Aktif Kuliah,4,11,17
+470,Qori Maulana,202658375,Surat Aktif Kuliah,3,74,5
+471,Bambang Kusuma,202670090,Surat Aktif Kuliah,3,108,7
+472,Zainal Laksono,202638552,Pengajuan Cuti,4,63,13
+473,Kartini Putri,202654271,Surat Aktif Kuliah,2,109,20
+474,Zainal Ramadhan,202699464,Konsultasi,1,80,30
+475,Andi Saputra,202612135,Legalisasi,4,56,19
+476,Ahmad Handayani,202636519,Pengajuan Cuti,4,112,25
+477,Joko Nugroho,202645917,Legalisasi,3,10,16
+478,Vina Nugroho,202616788,Surat Aktif Kuliah,3,89,29
+479,Hadi Handayani,202695916,Legalisasi,1,27,20
+480,Citra Sari,202687815,Legalisasi,3,1,5
+481,Wahyu Ramadhan,202625807,Pengajuan Cuti,3,16,20
+482,Citra Siregar,202660210,Legalisasi,4,13,15
+483,Lestari Putri,202627974,Surat Aktif Kuliah,4,111,9
+484,Umi Sari,202618967,Surat Aktif Kuliah,1,83,10
+485,Oscar Susanto,202637926,Surat Aktif Kuliah,2,52,24
+486,Vina Saputra,202638475,Legalisasi,2,96,8
+487,Sari Laksono,202656077,Pengajuan Cuti,3,17,12
+488,Indah Kusuma,202642528,Surat Aktif Kuliah,3,77,14
+489,Yanti Santoso,202696299,Pengajuan Cuti,2,77,21
+490,Gita Laksono,202648738,Surat Aktif Kuliah,4,101,12
+491,Putri Laksono,202624778,Legalisasi,3,9,21
+492,Cici Santoso,202657330,Pengajuan Cuti,2,110,23
+493,Nina Susanto,202681613,Konsultasi,4,98,7
+494,Ahmad Kusuma,202611808,Legalisasi,1,7,30
+495,Mario Setiawan,202647551,Surat Aktif Kuliah,3,53,18
+496,Wahyu Laksono,202620804,Surat Aktif Kuliah,3,19,13
+497,Citra Putri,202620358,Surat Aktif Kuliah,2,103,9
+498,Rini Ramadhan,202661214,Surat Aktif Kuliah,4,83,26
+499,Umi Kusuma,202650655,Konsultasi,4,108,12
+500,Budi Siregar,202621301,Pengajuan Cuti,2,78,24
+501,Budi Putri,202697305,Konsultasi,4,15,5
+502,Wahyu Sari,202611488,Legalisasi,4,66,21
+503,Zainal Maulana,202631885,Surat Aktif Kuliah,4,111,13
+504,Xena Pratama,202613848,Legalisasi,3,67,7
+505,Indah Kusuma,202675032,Surat Aktif Kuliah,3,63,23
+506,Fani Susanto,202630619,Legalisasi,2,73,26
+507,Xena Pratama,202639938,Konsultasi,1,109,5
+508,Hadi Wijaya,202671836,Surat Aktif Kuliah,4,22,6
+509,Rini Handayani,202639428,Legalisasi,3,92,15
+510,Indah Kusuma,202684913,Surat Aktif Kuliah,3,115,6
+511,Fani Siregar,202677604,Pengajuan Cuti,4,8,19
+512,Bambang Putri,202650724,Legalisasi,3,1,16
+513,Gita Putri,202683900,Konsultasi,4,31,19
+514,Lestari Purnama,202635615,Konsultasi,3,101,12
+515,Eko Santoso,202663745,Legalisasi,3,81,27
+516,Cici Santoso,202653912,Legalisasi,3,108,28
+517,Xena Putri,202623625,Legalisasi,4,53,20
+518,Budi Sari,202646678,Legalisasi,4,114,21
+519,Nina Susanto,202670092,Pengajuan Cuti,1,12,21
+520,Eko Laksono,202619809,Surat Aktif Kuliah,1,84,9
+521,Hadi Putri,202644209,Pengajuan Cuti,4,50,27
+522,Andi Ramadhan,202651689,Surat Aktif Kuliah,2,120,11
+523,Eko Pratama,202630370,Legalisasi,3,40,18
+524,Dewi Susanto,202637216,Surat Aktif Kuliah,3,109,8
+525,Citra Nugroho,202699923,Legalisasi,4,77,6
+526,Gita Ramadhan,202629442,Legalisasi,2,45,17
+527,Qori Wijaya,202698760,Legalisasi,4,22,5
+528,Mario Saputra,202682870,Konsultasi,2,59,8
+529,Zainal Sari,202625920,Legalisasi,4,28,9
+530,Gita Laksono,202658791,Konsultasi,4,10,23
+531,Sari Maulana,202619829,Legalisasi,1,115,25
+532,Oscar Sari,202622056,Pengajuan Cuti,4,42,8
+533,Budi Saputra,202616638,Legalisasi,3,105,28
+534,Mario Purnama,202613865,Surat Aktif Kuliah,3,45,11
+535,Dedi Nugroho,202646043,Legalisasi,4,4,24
+536,Tono Siregar,202694841,Legalisasi,3,70,20
+537,Budi Kusuma,202646671,Surat Aktif Kuliah,3,82,30
+538,Qori Siregar,202692675,Pengajuan Cuti,3,2,17
+539,Zainal Susanto,202672874,Surat Aktif Kuliah,3,116,23
+540,Qori Ramadhan,202660906,Legalisasi,1,76,12
+541,Ahmad Maulana,202617680,Konsultasi,3,45,29
+542,Sari Siregar,202630923,Legalisasi,3,34,22
+543,Andi Wijaya,202638759,Surat Aktif Kuliah,4,49,16
+544,Dedi Nugroho,202633082,Legalisasi,3,94,27
+545,Lestari Santoso,202656096,Pengajuan Cuti,3,72,11
+546,Andi Purnama,202681058,Legalisasi,3,11,6
+547,Hadi Siregar,202612613,Surat Aktif Kuliah,1,117,24
+548,Gita Sari,202654664,Konsultasi,4,108,15
+549,Budi Santoso,202629361,Surat Aktif Kuliah,4,99,8
+550,Bambang Setiawan,202657827,Pengajuan Cuti,3,120,26
+551,Mario Pratama,202654114,Legalisasi,2,20,28
+552,Nina Purnama,202695090,Legalisasi,4,71,27
+553,Cici Susanto,202639261,Konsultasi,4,48,14
+554,Xena Putri,202626692,Legalisasi,1,89,23
+555,Mario Wijaya,202633866,Surat Aktif Kuliah,4,78,12
+556,Umi Pratama,202675036,Legalisasi,4,30,16
+557,Kartini Nugroho,202693387,Pengajuan Cuti,1,90,26
+558,Umi Ramadhan,202668541,Legalisasi,2,88,7
+559,Lestari Maulana,202624161,Konsultasi,1,56,28
+560,Nina Nugroho,202664267,Surat Aktif Kuliah,3,69,17
+561,Dewi Purnama,202685767,Konsultasi,3,20,19
+562,Citra Wijaya,202648655,Legalisasi,2,13,7
+563,Kartini Nugroho,202659213,Legalisasi,1,120,7
+564,Kartini Purnama,202614063,Surat Aktif Kuliah,3,77,18
+565,Fani Wijaya,202623273,Legalisasi,4,52,27
+566,Rini Maulana,202696586,Legalisasi,2,6,17
+567,Sari Purnama,202630132,Legalisasi,1,11,14
+568,Andi Purnama,202636172,Legalisasi,2,81,14
+569,Citra Purnama,202625140,Legalisasi,3,62,26
+570,Indah Kusuma,202694131,Surat Aktif Kuliah,2,113,17
+571,Lestari Nugroho,202668429,Legalisasi,3,33,12
+572,Andi Maulana,202683957,Legalisasi,4,85,8
+573,Citra Susanto,202680969,Surat Aktif Kuliah,4,29,22
+574,Budi Laksono,202678496,Surat Aktif Kuliah,3,110,20
+575,Sari Siregar,202672425,Legalisasi,3,109,27
+576,Budi Setiawan,202684871,Pengajuan Cuti,4,86,24
+577,Eko Pratama,202668857,Legalisasi,4,27,30
+578,Gita Sari,202615594,Surat Aktif Kuliah,4,55,11
+579,Andi Sari,202687995,Legalisasi,4,117,30
+580,Citra Kusuma,202660869,Surat Aktif Kuliah,3,109,13
+581,Qori Saputra,202611621,Konsultasi,3,66,30
+582,Nina Pratama,202664322,Legalisasi,3,74,29
+583,Dewi Pratama,202683753,Konsultasi,4,111,22
+584,Cici Susanto,202663857,Legalisasi,3,73,24
+585,Putri Wijaya,202632571,Legalisasi,2,77,26
+586,Wahyu Laksono,202615084,Surat Aktif Kuliah,4,88,12
+587,Budi Purnama,202645204,Pengajuan Cuti,1,104,30
+588,Joko Putri,202646746,Konsultasi,4,87,8
+589,Bambang Siregar,202627615,Legalisasi,4,99,15
+590,Indah Handayani,202689296,Surat Aktif Kuliah,2,27,18
+591,Xena Purnama,202677699,Pengajuan Cuti,4,65,30
+592,Fani Kusuma,202650780,Konsultasi,3,99,21
+593,Cici Santoso,202632773,Legalisasi,4,107,6
+594,Hadi Wijaya,202669828,Legalisasi,3,25,13
+595,Lestari Saputra,202676208,Surat Aktif Kuliah,4,87,5
+596,Hadi Susanto,202674067,Surat Aktif Kuliah,2,111,20
+597,Sari Susanto,202655122,Legalisasi,4,95,27
+598,Citra Putri,202613598,Surat Aktif Kuliah,2,73,29
+599,Gita Siregar,202694854,Legalisasi,2,83,18
+600,Qori Santoso,202699418,Legalisasi,4,82,10
+601,Tono Santoso,202639330,Legalisasi,4,39,27
+602,Wahyu Maulana,202665550,Pengajuan Cuti,4,58,13
+603,Gita Saputra,202649603,Konsultasi,4,50,23
+604,Dewi Santoso,202677046,Pengajuan Cuti,4,107,16
+605,Rini Putri,202649122,Konsultasi,3,43,13
+606,Umi Ramadhan,202646292,Legalisasi,4,114,25
+607,Joko Hidayat,202629652,Surat Aktif Kuliah,2,7,30
+608,Bambang Laksono,202696578,Legalisasi,2,3,25
+609,Putri Putri,202644004,Pengajuan Cuti,3,94,6
+610,Sari Hidayat,202654980,Konsultasi,2,68,25
+611,Zainal Purnama,202698064,Surat Aktif Kuliah,3,21,26
+612,Cici Nugroho,202648507,Legalisasi,2,33,28
+613,Zainal Nugroho,202699092,Pengajuan Cuti,3,28,16
+614,Hadi Putri,202665113,Konsultasi,3,33,23
+615,Joko Saputra,202625438,Surat Aktif Kuliah,4,74,23
+616,Tono Kusuma,202671895,Pengajuan Cuti,3,111,26
+617,Mario Setiawan,202649107,Surat Aktif Kuliah,4,19,9
+618,Gita Ramadhan,202663634,Pengajuan Cuti,4,58,9
+619,Kartini Nugroho,202620593,Surat Aktif Kuliah,3,22,15
+620,Umi Wijaya,202610618,Surat Aktif Kuliah,2,99,10
+621,Sari Nugroho,202674170,Konsultasi,4,16,24
+622,Nina Handayani,202662874,Surat Aktif Kuliah,3,0,6
+623,Rini Hidayat,202658904,Pengajuan Cuti,4,96,21
+624,Gita Santoso,202698703,Legalisasi,4,28,27
+625,Cici Susanto,202650907,Legalisasi,3,75,14
+626,Fani Kusuma,202615993,Legalisasi,2,93,21
+627,Tono Setiawan,202654281,Surat Aktif Kuliah,3,17,15
+628,Cici Purnama,202657088,Konsultasi,2,116,30
+629,Mario Santoso,202639940,Legalisasi,4,27,28
+630,Ahmad Setiawan,202632150,Legalisasi,4,101,6
+631,Mario Maulana,202680089,Surat Aktif Kuliah,3,6,26
+632,Dewi Santoso,202616323,Konsultasi,3,48,8
+633,Rini Maulana,202672181,Konsultasi,2,87,25
+634,Ahmad Putri,202665165,Konsultasi,3,34,24
+635,Tono Sari,202664897,Konsultasi,2,92,24
+636,Dewi Putri,202624944,Konsultasi,3,77,11
+637,Yanti Maulana,202678570,Pengajuan Cuti,3,52,14
+638,Fani Wijaya,202681846,Surat Aktif Kuliah,2,119,20
+639,Kartini Siregar,202610359,Legalisasi,1,14,23
+640,Vina Purnama,202629549,Pengajuan Cuti,4,9,28
+641,Xena Pratama,202643541,Surat Aktif Kuliah,3,37,13
+642,Oscar Wijaya,202623083,Konsultasi,4,109,14
+643,Lestari Ramadhan,202665837,Konsultasi,1,97,6
+644,Ahmad Sari,202696948,Surat Aktif Kuliah,3,114,19
+645,Tono Maulana,202622184,Surat Aktif Kuliah,3,14,17
+646,Mario Saputra,202645630,Konsultasi,3,61,30
+647,Nina Nugroho,202624819,Legalisasi,4,120,10
+648,Dewi Handayani,202687431,Surat Aktif Kuliah,3,56,10
+649,Tono Laksono,202657003,Surat Aktif Kuliah,4,112,28
+650,Cici Sari,202673319,Pengajuan Cuti,2,52,19
+651,Budi Kusuma,202644291,Konsultasi,1,111,26
+652,Qori Siregar,202697798,Pengajuan Cuti,3,88,27
+653,Tono Pratama,202666735,Konsultasi,2,44,26
+654,Vina Laksono,202629485,Konsultasi,3,78,6
+655,Ahmad Nugroho,202676266,Konsultasi,4,111,10
+656,Citra Purnama,202652027,Legalisasi,4,6,21
+657,Hadi Laksono,202662859,Konsultasi,1,56,30
+658,Sari Saputra,202621537,Pengajuan Cuti,3,15,20
+659,Xena Santoso,202623454,Surat Aktif Kuliah,1,70,5
+660,Andi Kusuma,202689195,Pengajuan Cuti,3,113,21
+661,Rini Hidayat,202695800,Konsultasi,4,46,6
+662,Andi Siregar,202669567,Legalisasi,4,76,20
+663,Wahyu Susanto,202669315,Legalisasi,4,28,5
+664,Kartini Susanto,202693056,Pengajuan Cuti,2,66,16
+665,Wahyu Pratama,202616001,Pengajuan Cuti,3,105,27
+666,Xena Handayani,202624020,Legalisasi,2,15,17
+667,Gita Saputra,202634980,Konsultasi,2,53,6
+668,Dedi Pratama,202669049,Surat Aktif Kuliah,3,64,9
+669,Putri Santoso,202679516,Konsultasi,3,55,23
+670,Putri Setiawan,202633227,Konsultasi,2,104,9
+671,Dewi Laksono,202696183,Surat Aktif Kuliah,4,64,17
+672,Nina Siregar,202645861,Surat Aktif Kuliah,3,37,19
+673,Zainal Sari,202628112,Surat Aktif Kuliah,4,95,21
+674,Joko Ramadhan,202682560,Surat Aktif Kuliah,2,79,27
+675,Joko Susanto,202698130,Legalisasi,4,22,21
+676,Rini Ramadhan,202625127,Konsultasi,3,74,23
+677,Vina Handayani,202698375,Konsultasi,4,36,18
+678,Zainal Santoso,202678516,Legalisasi,3,6,26
+679,Budi Hidayat,202644994,Konsultasi,2,36,26
+680,Indah Sari,202618131,Konsultasi,2,96,22
+681,Budi Susanto,202669323,Legalisasi,4,94,22
+682,Bambang Siregar,202694820,Surat Aktif Kuliah,2,100,30
+683,Zainal Putri,202697097,Legalisasi,3,53,30
+684,Vina Ramadhan,202682369,Legalisasi,4,25,24
+685,Bambang Saputra,202639564,Pengajuan Cuti,4,82,16
+686,Yanti Hidayat,202635363,Legalisasi,2,87,7
+687,Fani Nugroho,202677351,Legalisasi,1,35,22
+688,Indah Sari,202631094,Surat Aktif Kuliah,2,42,19
+689,Wahyu Sari,202615236,Legalisasi,3,6,29
+690,Dedi Putri,202674298,Konsultasi,3,9,30
+691,Wahyu Ramadhan,202678865,Legalisasi,2,8,30
+692,Qori Nugroho,202664517,Surat Aktif Kuliah,3,44,12
+693,Cici Hidayat,202696945,Legalisasi,3,27,29
+694,Tono Setiawan,202672241,Pengajuan Cuti,4,83,5
+695,Dewi Susanto,202668415,Legalisasi,3,117,24
+696,Hadi Wijaya,202699464,Pengajuan Cuti,3,101,8
+697,Mario Maulana,202680810,Konsultasi,1,66,29
+698,Lestari Setiawan,202676681,Surat Aktif Kuliah,1,114,25
+699,Gita Ramadhan,202677358,Legalisasi,1,98,22
+700,Rini Santoso,202692174,Legalisasi,3,99,11
+701,Bambang Handayani,202623622,Legalisasi,4,112,28
+702,Yanti Handayani,202694747,Konsultasi,1,87,9
+703,Ahmad Saputra,202653479,Legalisasi,1,22,30
+704,Indah Kusuma,202685362,Konsultasi,4,52,17
+705,Oscar Laksono,202666758,Legalisasi,3,15,22
+706,Ahmad Kusuma,202686757,Legalisasi,4,45,21
+707,Dewi Putri,202699900,Legalisasi,1,97,19
+708,Mario Laksono,202696603,Legalisasi,2,28,9
+709,Xena Laksono,202681530,Legalisasi,3,38,26
+710,Cici Susanto,202611462,Surat Aktif Kuliah,3,15,6
+711,Ahmad Laksono,202680406,Surat Aktif Kuliah,1,26,28
+712,Xena Susanto,202637753,Surat Aktif Kuliah,3,65,9
+713,Fani Nugroho,202638940,Surat Aktif Kuliah,2,14,10
+714,Vina Wijaya,202681940,Surat Aktif Kuliah,3,37,26
+715,Citra Maulana,202622872,Legalisasi,3,42,16
+716,Eko Siregar,202623114,Legalisasi,1,24,15
+717,Putri Saputra,202653037,Surat Aktif Kuliah,3,74,9
+718,Sari Susanto,202651463,Pengajuan Cuti,2,40,12
+719,Zainal Siregar,202693996,Surat Aktif Kuliah,4,17,26
+720,Xena Ramadhan,202672909,Surat Aktif Kuliah,3,39,20
+721,Rini Pratama,202633039,Surat Aktif Kuliah,1,35,9
+722,Cici Hidayat,202644503,Konsultasi,3,93,7
+723,Cici Santoso,202676477,Surat Aktif Kuliah,4,74,17
+724,Yanti Hidayat,202614805,Surat Aktif Kuliah,3,69,20
+725,Umi Sari,202657949,Surat Aktif Kuliah,4,75,28
+726,Bambang Putri,202627549,Surat Aktif Kuliah,3,50,16
+727,Qori Santoso,202696859,Legalisasi,4,78,26
+728,Fani Setiawan,202628399,Surat Aktif Kuliah,2,72,26
+729,Bambang Sari,202673374,Pengajuan Cuti,1,97,20
+730,Hadi Kusuma,202644650,Surat Aktif Kuliah,1,26,21
+731,Dedi Susanto,202660869,Surat Aktif Kuliah,3,5,6
+732,Umi Ramadhan,202623530,Konsultasi,3,106,13
+733,Andi Maulana,202685843,Surat Aktif Kuliah,2,83,17
+734,Lestari Kusuma,202677721,Legalisasi,4,28,21
+735,Mario Susanto,202655225,Surat Aktif Kuliah,3,77,5
+736,Qori Sari,202667659,Legalisasi,1,82,13
+737,Gita Sari,202634499,Legalisasi,3,104,8
+738,Vina Siregar,202664345,Konsultasi,4,61,26
+739,Putri Purnama,202637618,Surat Aktif Kuliah,3,52,5
+740,Hadi Wijaya,202626763,Surat Aktif Kuliah,2,80,21
+741,Budi Sari,202617329,Legalisasi,4,66,17
+742,Tono Santoso,202696737,Konsultasi,4,27,19
+743,Tono Purnama,202673134,Legalisasi,4,76,9
+744,Zainal Nugroho,202691686,Konsultasi,2,92,26
+745,Kartini Saputra,202688189,Surat Aktif Kuliah,2,49,9
+746,Dewi Santoso,202636523,Surat Aktif Kuliah,4,87,18
+747,Andi Sari,202689366,Legalisasi,3,78,24
+748,Budi Setiawan,202625404,Legalisasi,3,115,24
+749,Rini Santoso,202698941,Surat Aktif Kuliah,3,47,6
+750,Wahyu Setiawan,202666225,Legalisasi,4,101,29
+751,Mario Susanto,202687208,Konsultasi,4,107,27
+752,Sari Pratama,202665770,Legalisasi,3,29,7
+753,Joko Handayani,202643792,Legalisasi,4,101,5
+754,Sari Setiawan,202625445,Surat Aktif Kuliah,3,26,27
+755,Zainal Ramadhan,202663589,Surat Aktif Kuliah,2,83,23
+756,Indah Maulana,202680269,Surat Aktif Kuliah,3,35,26
+757,Mario Hidayat,202664163,Surat Aktif Kuliah,3,22,16
+758,Rini Purnama,202643264,Pengajuan Cuti,3,99,27
+759,Mario Sari,202696414,Legalisasi,2,100,27
+760,Fani Pratama,202638110,Surat Aktif Kuliah,4,102,22
+761,Tono Wijaya,202631069,Surat Aktif Kuliah,3,102,7
+762,Andi Sari,202671823,Pengajuan Cuti,3,8,13
+763,Hadi Susanto,202620491,Surat Aktif Kuliah,4,119,17
+764,Tono Setiawan,202647549,Konsultasi,3,99,10
+765,Umi Purnama,202667537,Legalisasi,4,119,30
+766,Qori Putri,202635526,Legalisasi,3,66,27
+767,Hadi Nugroho,202698346,Legalisasi,2,0,10
+768,Citra Maulana,202662355,Surat Aktif Kuliah,3,75,11
+769,Qori Santoso,202618994,Pengajuan Cuti,3,92,22
+770,Dedi Susanto,202655545,Pengajuan Cuti,2,77,11
+771,Oscar Laksono,202685355,Legalisasi,2,64,8
+772,Rini Kusuma,202675952,Legalisasi,4,102,21
+773,Indah Maulana,202668035,Pengajuan Cuti,3,98,12
+774,Yanti Ramadhan,202670143,Konsultasi,4,110,5
+775,Putri Pratama,202643793,Legalisasi,3,28,26
+776,Wahyu Siregar,202651384,Surat Aktif Kuliah,3,68,5
+777,Wahyu Maulana,202642540,Legalisasi,3,95,15
+778,Citra Nugroho,202672464,Legalisasi,2,73,13
+779,Fani Hidayat,202675405,Konsultasi,2,30,13
+780,Gita Siregar,202636578,Konsultasi,4,45,9
+781,Yanti Pratama,202625713,Pengajuan Cuti,3,84,20
+782,Tono Santoso,202680973,Pengajuan Cuti,4,47,24
+783,Kartini Purnama,202685304,Pengajuan Cuti,3,97,21
+784,Indah Laksono,202639111,Konsultasi,2,67,30
+785,Nina Purnama,202680880,Legalisasi,3,110,26
+786,Yanti Nugroho,202669926,Pengajuan Cuti,3,58,15
+787,Wahyu Santoso,202611550,Konsultasi,3,12,15
+788,Lestari Maulana,202634531,Surat Aktif Kuliah,2,60,24
+789,Kartini Susanto,202634106,Surat Aktif Kuliah,2,89,29
+790,Lestari Susanto,202662507,Legalisasi,2,16,23
+791,Vina Siregar,202623091,Konsultasi,4,71,18
+792,Bambang Laksono,202635699,Legalisasi,4,19,20
+793,Zainal Santoso,202633149,Surat Aktif Kuliah,2,114,25
+794,Qori Ramadhan,202673783,Legalisasi,3,72,6
+795,Mario Pratama,202631410,Legalisasi,4,60,25
+796,Dewi Saputra,202653865,Legalisasi,3,71,30
+797,Indah Susanto,202612600,Surat Aktif Kuliah,3,86,24
+798,Gita Nugroho,202647305,Surat Aktif Kuliah,3,62,29
+799,Xena Saputra,202620278,Surat Aktif Kuliah,2,80,9
+800,Bambang Nugroho,202693963,Konsultasi,3,80,24
+801,Sari Laksono,202619352,Legalisasi,3,40,15
+802,Umi Putri,202645059,Surat Aktif Kuliah,3,113,19
+803,Yanti Susanto,202686929,Surat Aktif Kuliah,3,21,10
+804,Bambang Santoso,202626390,Konsultasi,3,120,28
+805,Wahyu Kusuma,202637601,Legalisasi,2,8,20
+806,Rini Wijaya,202613456,Konsultasi,3,10,8
+807,Indah Sari,202621051,Konsultasi,4,39,12
+808,Hadi Putri,202668086,Surat Aktif Kuliah,2,107,10
+809,Ahmad Wijaya,202696973,Surat Aktif Kuliah,4,110,20
+810,Oscar Maulana,202681899,Surat Aktif Kuliah,4,89,22
+811,Fani Saputra,202692713,Konsultasi,4,55,21
+812,Umi Putri,202655505,Surat Aktif Kuliah,2,11,19
+813,Joko Susanto,202664029,Legalisasi,3,0,21
+814,Andi Sari,202655074,Legalisasi,3,88,20
+815,Yanti Purnama,202649271,Legalisasi,3,37,24
+816,Hadi Santoso,202681856,Surat Aktif Kuliah,3,71,18
+817,Mario Siregar,202631401,Konsultasi,3,106,17
+818,Hadi Maulana,202620383,Surat Aktif Kuliah,2,97,30
+819,Dedi Maulana,202647314,Surat Aktif Kuliah,3,34,18
+820,Gita Kusuma,202633909,Legalisasi,2,58,24
+821,Oscar Maulana,202691626,Surat Aktif Kuliah,3,19,6
+822,Rini Santoso,202634372,Pengajuan Cuti,2,16,27
+823,Oscar Santoso,202640515,Legalisasi,1,27,15
+824,Nina Putri,202675326,Pengajuan Cuti,3,101,6
+825,Kartini Kusuma,202629149,Legalisasi,4,9,22
+826,Putri Nugroho,202635192,Pengajuan Cuti,2,48,5
+827,Dewi Siregar,202660437,Konsultasi,3,94,6
+828,Gita Saputra,202622316,Surat Aktif Kuliah,4,60,17
+829,Vina Putri,202652345,Legalisasi,4,95,22
+830,Qori Pratama,202643203,Surat Aktif Kuliah,2,46,6
+831,Bambang Hidayat,202624802,Legalisasi,3,1,10
+832,Zainal Maulana,202686638,Legalisasi,4,1,6
+833,Sari Purnama,202688147,Legalisasi,4,31,10
+834,Putri Kusuma,202699909,Surat Aktif Kuliah,4,97,25
+835,Budi Wijaya,202656599,Surat Aktif Kuliah,4,101,8
+836,Eko Purnama,202640498,Legalisasi,3,82,29
+837,Lestari Saputra,202635293,Legalisasi,3,92,9
+838,Indah Wijaya,202673610,Konsultasi,3,69,27
+839,Putri Hidayat,202684279,Legalisasi,3,93,19
+840,Indah Nugroho,202619028,Surat Aktif Kuliah,3,104,13
+841,Rini Susanto,202669518,Legalisasi,3,48,28
+842,Fani Santoso,202691230,Pengajuan Cuti,4,30,15
+843,Xena Kusuma,202696284,Pengajuan Cuti,4,24,21
+844,Vina Purnama,202682282,Legalisasi,2,52,25
+845,Kartini Pratama,202622617,Surat Aktif Kuliah,1,106,9
+846,Fani Wijaya,202636487,Legalisasi,2,4,23
+847,Umi Laksono,202696236,Surat Aktif Kuliah,3,75,13
+848,Budi Susanto,202638931,Surat Aktif Kuliah,1,119,11
+849,Umi Purnama,202620481,Surat Aktif Kuliah,3,46,22
+850,Xena Handayani,202658375,Konsultasi,1,78,13
+851,Qori Wijaya,202619226,Konsultasi,1,27,21
+852,Dewi Pratama,202640280,Surat Aktif Kuliah,2,67,26
+853,Hadi Nugroho,202683194,Konsultasi,3,13,29
+854,Umi Susanto,202698408,Surat Aktif Kuliah,3,113,8
+855,Fani Nugroho,202682086,Surat Aktif Kuliah,3,20,22
+856,Tono Saputra,202656180,Pengajuan Cuti,3,41,16
+857,Nina Handayani,202652396,Surat Aktif Kuliah,3,27,17
+858,Yanti Maulana,202657188,Pengajuan Cuti,3,50,5
+859,Xena Wijaya,202647288,Surat Aktif Kuliah,3,113,14
+860,Ahmad Putri,202639084,Legalisasi,3,98,27
+861,Andi Maulana,202682570,Surat Aktif Kuliah,3,73,9
+862,Dewi Wijaya,202670342,Surat Aktif Kuliah,2,46,23
+863,Hadi Siregar,202643587,Konsultasi,1,51,23
+864,Dedi Hidayat,202620119,Konsultasi,4,22,20
+865,Andi Pratama,202688019,Surat Aktif Kuliah,1,103,23
+866,Mario Kusuma,202617330,Pengajuan Cuti,3,112,18
+867,Nina Pratama,202639717,Konsultasi,4,118,5
+868,Umi Laksono,202617095,Legalisasi,1,69,23
+869,Eko Ramadhan,202675851,Konsultasi,2,86,28
+870,Mario Saputra,202688006,Surat Aktif Kuliah,1,55,14
+871,Zainal Laksono,202629401,Legalisasi,1,73,28
+872,Budi Laksono,202644414,Legalisasi,3,99,27
+873,Eko Sari,202673036,Surat Aktif Kuliah,3,83,23
+874,Gita Setiawan,202642276,Legalisasi,2,55,15
+875,Vina Kusuma,202624750,Konsultasi,3,44,11
+876,Kartini Susanto,202687841,Konsultasi,4,21,16
+877,Tono Saputra,202691682,Legalisasi,1,104,12
+878,Gita Susanto,202630447,Konsultasi,4,14,28
+879,Budi Siregar,202691397,Pengajuan Cuti,4,104,14
+880,Ahmad Ramadhan,202624586,Legalisasi,3,42,11
+881,Xena Hidayat,202636713,Surat Aktif Kuliah,4,70,20
+882,Tono Sari,202697591,Legalisasi,3,84,21
+883,Budi Maulana,202632325,Legalisasi,2,89,24
+884,Indah Wijaya,202670944,Konsultasi,1,49,26
+885,Indah Susanto,202624142,Legalisasi,4,83,17
+886,Hadi Laksono,202676656,Pengajuan Cuti,1,40,20
+887,Bambang Kusuma,202634435,Legalisasi,4,71,27
+888,Ahmad Wijaya,202642427,Pengajuan Cuti,3,62,17
+889,Xena Nugroho,202612409,Legalisasi,3,80,14
+890,Hadi Setiawan,202646160,Konsultasi,3,112,17
+891,Cici Santoso,202682738,Pengajuan Cuti,2,43,17
+892,Vina Sari,202621508,Konsultasi,3,86,24
+893,Bambang Siregar,202664701,Legalisasi,2,39,24
+894,Kartini Saputra,202681072,Legalisasi,3,74,22
+895,Vina Hidayat,202628103,Legalisasi,4,67,9
+896,Nina Sari,202696014,Pengajuan Cuti,4,40,7
+897,Rini Pratama,202634135,Legalisasi,4,93,5
+898,Yanti Ramadhan,202664270,Pengajuan Cuti,3,95,25
+899,Dedi Maulana,202629918,Konsultasi,2,23,5
+900,Yanti Maulana,202689378,Surat Aktif Kuliah,2,29,12
+901,Vina Santoso,202657090,Legalisasi,4,17,21
+902,Bambang Purnama,202695141,Surat Aktif Kuliah,4,62,20
+903,Eko Nugroho,202635331,Legalisasi,3,1,13
+904,Nina Siregar,202697994,Pengajuan Cuti,4,8,10
+905,Dedi Saputra,202690880,Surat Aktif Kuliah,3,58,12
+906,Nina Laksono,202615483,Surat Aktif Kuliah,4,92,15
+907,Mario Setiawan,202694069,Pengajuan Cuti,4,66,8
+908,Oscar Saputra,202615560,Pengajuan Cuti,2,68,17
+909,Xena Wijaya,202683099,Surat Aktif Kuliah,4,6,11
+910,Joko Saputra,202662172,Pengajuan Cuti,4,36,19
+911,Fani Handayani,202648591,Surat Aktif Kuliah,1,66,9
+912,Oscar Saputra,202621855,Konsultasi,2,99,23
+913,Cici Sari,202661521,Surat Aktif Kuliah,3,22,19
+914,Sari Hidayat,202669597,Legalisasi,3,83,27
+915,Zainal Nugroho,202626194,Legalisasi,4,81,16
+916,Citra Setiawan,202660344,Konsultasi,4,78,10
+917,Mario Laksono,202615755,Konsultasi,4,72,26
+918,Bambang Sari,202631250,Pengajuan Cuti,2,91,6
+919,Nina Putri,202650570,Konsultasi,4,36,25
+920,Fani Pratama,202627246,Pengajuan Cuti,1,97,13
+921,Ahmad Saputra,202675226,Pengajuan Cuti,3,0,24
+922,Cici Purnama,202641180,Legalisasi,3,58,18
+923,Oscar Kusuma,202688803,Surat Aktif Kuliah,2,70,13
+924,Tono Hidayat,202616412,Legalisasi,1,44,6
+925,Eko Wijaya,202697425,Surat Aktif Kuliah,3,42,7
+926,Budi Pratama,202664652,Pengajuan Cuti,2,36,24
+927,Vina Nugroho,202669683,Konsultasi,3,4,7
+928,Yanti Putri,202652313,Surat Aktif Kuliah,3,8,29
+929,Nina Kusuma,202648383,Surat Aktif Kuliah,2,110,13
+930,Kartini Setiawan,202664233,Surat Aktif Kuliah,3,78,6
+931,Dewi Setiawan,202621492,Surat Aktif Kuliah,3,119,30
+932,Wahyu Putri,202665975,Surat Aktif Kuliah,3,67,23
+933,Tono Susanto,202627002,Surat Aktif Kuliah,3,93,25
+934,Putri Purnama,202633581,Pengajuan Cuti,2,37,11
+935,Ahmad Pratama,202613144,Surat Aktif Kuliah,4,94,11
+936,Zainal Handayani,202664270,Legalisasi,3,103,25
+937,Gita Santoso,202693968,Legalisasi,2,101,7
+938,Joko Putri,202676413,Surat Aktif Kuliah,4,14,26
+939,Kartini Ramadhan,202661911,Konsultasi,3,3,10
+940,Gita Ramadhan,202654295,Pengajuan Cuti,3,60,30
+941,Budi Sari,202673111,Legalisasi,3,110,22
+942,Cici Ramadhan,202670617,Konsultasi,3,95,6
+943,Andi Setiawan,202649236,Surat Aktif Kuliah,3,71,22
+944,Ahmad Hidayat,202685681,Konsultasi,4,113,30
+945,Lestari Kusuma,202629570,Legalisasi,1,48,25
+946,Rini Nugroho,202684840,Surat Aktif Kuliah,2,14,30
+947,Yanti Putri,202651223,Konsultasi,2,11,20
+948,Cici Siregar,202658705,Surat Aktif Kuliah,4,27,21
+949,Joko Nugroho,202624711,Surat Aktif Kuliah,1,25,7
+950,Oscar Setiawan,202613269,Konsultasi,4,19,11
+951,Kartini Purnama,202678633,Legalisasi,3,98,8
+952,Andi Setiawan,202698699,Pengajuan Cuti,2,4,19
+953,Mario Setiawan,202625183,Legalisasi,4,87,24
+954,Bambang Kusuma,202653685,Surat Aktif Kuliah,1,66,29
+955,Vina Putri,202612947,Surat Aktif Kuliah,3,114,11
+956,Kartini Hidayat,202635238,Legalisasi,3,98,19
+957,Vina Pratama,202645738,Legalisasi,2,1,24
+958,Rini Setiawan,202623419,Legalisasi,3,40,13
+959,Eko Putri,202685247,Legalisasi,1,78,15
+960,Rini Saputra,202616649,Legalisasi,3,86,6
+961,Dewi Laksono,202617052,Legalisasi,3,90,24
+962,Cici Saputra,202690782,Surat Aktif Kuliah,3,25,27
+963,Yanti Kusuma,202671040,Surat Aktif Kuliah,1,102,27
+964,Oscar Pratama,202669715,Legalisasi,3,98,19
+965,Putri Siregar,202639334,Legalisasi,4,33,16
+966,Mario Nugroho,202697187,Legalisasi,4,41,19
+967,Putri Santoso,202618568,Surat Aktif Kuliah,3,59,10
+968,Joko Susanto,202689226,Surat Aktif Kuliah,3,51,27
+969,Zainal Pratama,202652713,Surat Aktif Kuliah,1,38,22
+970,Oscar Laksono,202687403,Surat Aktif Kuliah,3,70,10
+971,Putri Laksono,202618659,Legalisasi,4,75,18
+972,Zainal Handayani,202684346,Konsultasi,3,30,10
+973,Vina Kusuma,202685261,Konsultasi,2,76,19
+974,Kartini Pratama,202668356,Legalisasi,4,8,24
+975,Dewi Laksono,202652915,Surat Aktif Kuliah,3,11,11
+976,Andi Sari,202686123,Pengajuan Cuti,3,0,29
+977,Eko Sari,202669373,Surat Aktif Kuliah,3,73,19
+978,Gita Hidayat,202699328,Pengajuan Cuti,2,101,26
+979,Joko Handayani,202655124,Pengajuan Cuti,3,78,21
+980,Mario Sari,202648560,Legalisasi,4,6,5
+981,Wahyu Susanto,202624379,Pengajuan Cuti,4,30,18
+982,Wahyu Laksono,202691949,Legalisasi,3,48,18
+983,Rini Hidayat,202696834,Legalisasi,2,71,17
+984,Andi Susanto,202664688,Legalisasi,4,85,9
+985,Eko Santoso,202619404,Surat Aktif Kuliah,2,113,20
+986,Vina Handayani,202627797,Legalisasi,3,53,19
+987,Cici Handayani,202691691,Legalisasi,3,70,19
+988,Mario Susanto,202639589,Legalisasi,3,73,20
+989,Bambang Siregar,202675763,Legalisasi,4,73,16
+990,Budi Wijaya,202684469,Surat Aktif Kuliah,3,74,20
+991,Wahyu Kusuma,202628624,Konsultasi,3,109,29
+992,Yanti Maulana,202670941,Surat Aktif Kuliah,3,78,7
+993,Hadi Purnama,202692663,Konsultasi,4,9,26
+994,Umi Putri,202690353,Legalisasi,3,99,5
+995,Putri Saputra,202677196,Pengajuan Cuti,3,42,18
+996,Lestari Putri,202647908,Legalisasi,3,76,28
+997,Joko Maulana,202618051,Surat Aktif Kuliah,3,73,6
+998,Vina Putri,202691831,Legalisasi,3,16,21
+999,Citra Maulana,202643037,Legalisasi,2,109,13
+1000,Ahmad Pratama,202689145,Legalisasi,3,19,26
