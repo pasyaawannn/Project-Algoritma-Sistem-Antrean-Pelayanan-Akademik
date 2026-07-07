@@ -1,0 +1,52 @@
+id_mahasiswa,nama,nim,jenis_layanan,prioritas,waktu_kedatangan,estimasi_waktu_layanan
+1,Umi Pratama,202613279,Konsultasi,2,17,28
+2,Dewi Kusuma,202687398,Surat Aktif Kuliah,1,27,12
+3,Qori Santoso,202683564,Legalisasi,3,69,18
+4,Hadi Saputra,202687237,Legalisasi,4,97,30
+5,Fani Handayani,202654598,Legalisasi,2,97,15
+6,Dewi Kusuma,202659798,Legalisasi,4,77,13
+7,Zainal Wijaya,202670218,Surat Aktif Kuliah,4,48,7
+8,Rini Putri,202692398,Surat Aktif Kuliah,4,73,11
+9,Wahyu Kusuma,202616007,Konsultasi,4,10,12
+10,Bambang Pratama,202659824,Legalisasi,3,46,10
+11,Lestari Susanto,202637461,Konsultasi,4,87,25
+12,Citra Nugroho,202680011,Konsultasi,2,48,13
+13,Dedi Siregar,202699734,Legalisasi,4,7,12
+14,Andi Wijaya,202651348,Surat Aktif Kuliah,1,116,23
+15,Cici Ramadhan,202637870,Konsultasi,3,117,25
+16,Oscar Sari,202644719,Legalisasi,4,68,13
+17,Xena Handayani,202686485,Surat Aktif Kuliah,2,17,21
+18,Putri Kusuma,202616176,Pengajuan Cuti,2,20,30
+19,Vina Handayani,202688173,Legalisasi,3,59,21
+20,Indah Santoso,202699167,Konsultasi,3,68,29
+21,Indah Ramadhan,202624622,Legalisasi,2,0,28
+22,Cici Maulana,202675613,Konsultasi,3,13,25
+23,Joko Setiawan,202689819,Legalisasi,3,20,22
+24,Yanti Setiawan,202610075,Surat Aktif Kuliah,3,14,16
+25,Cici Putri,202641386,Legalisasi,4,10,7
+26,Xena Purnama,202619072,Pengajuan Cuti,3,16,9
+27,Vina Purnama,202682064,Legalisasi,3,77,18
+28,Gita Hidayat,202650858,Surat Aktif Kuliah,3,47,19
+29,Cici Setiawan,202669178,Legalisasi,2,43,5
+30,Sari Siregar,202687129,Legalisasi,1,80,6
+31,Hadi Kusuma,202614118,Pengajuan Cuti,1,30,13
+32,Vina Purnama,202638081,Surat Aktif Kuliah,4,112,23
+33,Sari Purnama,202641851,Konsultasi,4,24,8
+34,Dewi Handayani,202656439,Surat Aktif Kuliah,3,93,6
+35,Vina Pratama,202617945,Surat Aktif Kuliah,3,110,8
+36,Hadi Hidayat,202634932,Surat Aktif Kuliah,2,23,13
+37,Oscar Siregar,202619881,Surat Aktif Kuliah,4,70,8
+38,Budi Santoso,202622225,Pengajuan Cuti,4,21,18
+39,Putri Purnama,202638017,Pengajuan Cuti,4,21,17
+40,Ahmad Laksono,202644761,Pengajuan Cuti,4,36,18
+41,Wahyu Purnama,202630290,Legalisasi,2,7,23
+42,Xena Wijaya,202651105,Legalisasi,3,64,21
+43,Fani Wijaya,202676563,Legalisasi,2,76,7
+44,Vina Siregar,202662924,Legalisasi,4,31,23
+45,Tono Wijaya,202691184,Legalisasi,3,72,21
+46,Kartini Maulana,202636773,Konsultasi,3,33,17
+47,Eko Putri,202669930,Legalisasi,4,9,5
+48,Oscar Pratama,202619603,Surat Aktif Kuliah,3,16,16
+49,Cici Kusuma,202642019,Surat Aktif Kuliah,2,106,22
+50,Wahyu Putri,202690174,Pengajuan Cuti,4,67,5
+51,APA YA,1121323,Legalisasi,2,1,2

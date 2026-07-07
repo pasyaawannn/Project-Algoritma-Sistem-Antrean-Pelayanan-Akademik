@@ -1,0 +1,3 @@
+dataset,algoritma,uji_1_ms,uji_2_ms,uji_3_ms,uji_4_ms,uji_5_ms,rata_rata_ms,rata_rata_tunggu_menit,jumlah_operasi,jumlah_selesai
+dataset_custom_edited.csv,FCFS,0.0341,0.0092,0.0084,0.0068,0.0067,0.0130,1.50,4,2
+dataset_custom_edited.csv,Priority Scheduling,0.0961,0.0325,0.0271,0.0229,0.0228,0.0403,1.50,4,2
